@@ -1,6 +1,6 @@
 # mitmproxy-commons
 
-Some sammple addons  for [mitmproxy](https://github.com/mitmproxy/mitmproxy).
+Some sample addons for [mitmproxy](https://github.com/mitmproxy/mitmproxy).
 
 ## CustomDNSResolver
 
